@@ -1,0 +1,28 @@
+{
+    "project": "gnric_bse",
+
+    "direction": "ltr",
+    "lang": "en",
+    "theme_color": "#000000",
+
+    "env":{
+        "source": {
+            "base": "../source/",
+            "html": "html/",
+            "scaffold": "html/scaffold/",
+            "components": "html/components/",
+            "templates": "html/templates/",
+            "sass": "sass/",
+            "fonts": "fonts/",
+            "images": "images/",
+            "icons": "icons/"
+        },
+        "build": {
+            "base": "../build/",
+            "fonts": "fonts/",
+            "images": "images/",
+            "html": "html/",
+            "css": "css/"
+        }
+    }
+}
